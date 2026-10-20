@@ -1,0 +1,6 @@
+# Legacy isolated Linux controller only: CPython 3.8; never Python 3.10+.
+# Install build tools first as documented. Not a production security environment.
+ryu==4.34
+eventlet==0.30.2
+dnspython==1.16.0
+greenlet==1.1.3.post0

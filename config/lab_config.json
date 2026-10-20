@@ -1,0 +1,8 @@
+{
+  "poll_seconds": 2,
+  "threshold_pps": 5,
+  "consecutive_samples": 2,
+  "block_seconds": 10,
+  "server_ip": "10.0.0.3",
+  "client_ips": ["10.0.0.1", "10.0.0.2"]
+}

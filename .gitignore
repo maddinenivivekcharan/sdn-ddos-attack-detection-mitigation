@@ -1,0 +1,16 @@
+.venv*/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+logs/*
+!logs/.gitkeep
+.env
+.env.*
+*.pem
+*.key
+*.pcap
+*.pcapng
+.DS_Store
+build/
+dist/
+*.egg-info/
